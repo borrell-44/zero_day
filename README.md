@@ -1,1 +1,1 @@
-https://github.com/borrell-44/zero_day
+https://intranet.hbtn.io/projects/1
